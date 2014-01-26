@@ -1,8 +1,8 @@
 # grunt-react
 
-[![Build Status](https://travis-ci.org/ericclemmons/grunt-react.png?branch=master)](https://travis-ci.org/ericclemmons/grunt-react)
-[![Dependencies](https://david-dm.org/ericclemmons/grunt-react.png)](https://david-dm.org/ericclemmons/grunt-react)
-[![devDependencies](https://david-dm.org/ericclemmons/grunt-react/dev-status.png)](https://david-dm.org/ericclemmons/grunt-react#info=devDependencies&view=table)
+[![Build Status](https://travis-ci.org/rtorr/grunt-react.png?branch=master)](https://travis-ci.org/ericclemmons/grunt-react)
+[![Dependencies](https://david-dm.org/rtorr/grunt-react.png)](https://david-dm.org/ericclemmons/grunt-react)
+[![devDependencies](https://david-dm.org/rtorr/grunt-react/dev-status.png)](https://david-dm.org/ericclemmons/grunt-react#info=devDependencies&view=table)
 
 
 > Grunt task for compiling [Facebook React](http://facebook.github.io/react/)'s JSX templates into JavaScript.
