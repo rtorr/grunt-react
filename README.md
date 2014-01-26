@@ -1,5 +1,13 @@
 # grunt-react
 
+A working fork of [https://github.com/ericclemmons/grunt-react](https://github.com/ericclemmons/grunt-react). This has the latest relase of `react-tools` (0.8.0).
+
+    npm install https://github.com/rtorr/grunt-react/tarball/v0.6.1
+
+or add to your `package.json`
+
+    "grunt-react": "https://github.com/rtorr/grunt-react/tarball/v0.6.1"
+
 [![Build Status](https://travis-ci.org/rtorr/grunt-react.png?branch=master)](https://travis-ci.org/rtorr/grunt-react)
 [![Dependencies](https://david-dm.org/rtorr/grunt-react.png)](https://david-dm.org/rtorr/grunt-react)
 [![devDependencies](https://david-dm.org/rtorr/grunt-react/dev-status.png)](https://david-dm.org/rtorr/grunt-react#info=devDependencies&view=table)
