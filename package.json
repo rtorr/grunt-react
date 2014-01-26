@@ -1,24 +1,24 @@
 {
   "name": "grunt-react",
   "description": "Grunt task for compiling Facebook React's JSX templates into JavaScript",
-  "version": "0.6.0",
-  "homepage": "https://github.com/ericclemmons/grunt-react",
+  "version": "0.7.0",
+  "homepage": "https://github.com/rtorr/grunt-react",
   "author": {
     "name": "Eric Clemmons",
     "email": "eric@smarterspam.com",
-    "url": "https://github.com/ericclemmons"
+    "url": "https://github.com/rtorr"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ericclemmons/grunt-react.git"
+    "url": "git://github.com/rtorr/grunt-react.git"
   },
   "bugs": {
-    "url": "https://github.com/ericclemmons/grunt-react/issues"
+    "url": "https://github.com/rtorr/grunt-react/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/ericclemmons/grunt-react/blob/master/LICENSE-MIT"
+      "url": "https://github.com/rtorr/grunt-react/blob/master/LICENSE-MIT"
     }
   ],
   "main": "main.js",

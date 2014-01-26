@@ -1,8 +1,8 @@
 # grunt-react
 
-[![Build Status](https://travis-ci.org/rtorr/grunt-react.png?branch=master)](https://travis-ci.org/ericclemmons/grunt-react)
-[![Dependencies](https://david-dm.org/rtorr/grunt-react.png)](https://david-dm.org/ericclemmons/grunt-react)
-[![devDependencies](https://david-dm.org/rtorr/grunt-react/dev-status.png)](https://david-dm.org/ericclemmons/grunt-react#info=devDependencies&view=table)
+[![Build Status](https://travis-ci.org/rtorr/grunt-react.png?branch=master)](https://travis-ci.org/rtorr/grunt-react)
+[![Dependencies](https://david-dm.org/rtorr/grunt-react.png)](https://david-dm.org/rtorr/grunt-react)
+[![devDependencies](https://david-dm.org/rtorr/grunt-react/dev-status.png)](https://david-dm.org/rtorr/grunt-react#info=devDependencies&view=table)
 
 
 > Grunt task for compiling [Facebook React](http://facebook.github.io/react/)'s JSX templates into JavaScript.
@@ -179,11 +179,11 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ### v0.5.2
 
-- `grunt.fail` instead of throwing an error ([#11](https://github.com/ericclemmons/grunt-react/pull/11))
+- `grunt.fail` instead of throwing an error ([#11](https://github.com/rtorr/grunt-react/pull/11))
 
 ### v0.5.1
 
-- Add file name to errors ([#15](https://github.com/ericclemmons/grunt-react/pull/15))
+- Add file name to errors ([#15](https://github.com/rtorr/grunt-react/pull/15))
 
 ### v0.5.0
 
@@ -191,15 +191,15 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ### v0.4.1
 
-- Add logging to make it easier catch errors, thanks to @lorefnon ([#5](https://github.com/ericclemmons/grunt-react/pull/5))
+- Add logging to make it easier catch errors, thanks to @lorefnon ([#5](https://github.com/rtorr/grunt-react/pull/5))
 
 ### v0.4.0
 
-- Update to react-tools ~0.4.0, thanks to @Agent-H ([#3](https://github.com/ericclemmons/grunt-react/pull/3))
+- Update to react-tools ~0.4.0, thanks to @Agent-H ([#3](https://github.com/rtorr/grunt-react/pull/3))
 
 ### v0.3.0
 
-- No longer uses `bin/jsx`, thanks to @petehunt ([#2](https://github.com/ericclemmons/grunt-react/pull/2))
+- No longer uses `bin/jsx`, thanks to @petehunt ([#2](https://github.com/rtorr/grunt-react/pull/2))
 - Add `ignoreMTime` option
 
 ### v0.2.0
@@ -211,5 +211,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 - Initial release
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ericclemmons/grunt-react/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rtorr/grunt-react/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
